@@ -4,7 +4,7 @@
 
 Skills: Python | C | C++ | C#
 
-- 🌱 I’m currently learning HTML | CSS | JAVASCRIPT | JAVA | LUA 
+- 🌱 I’m currently learning HTML | CSS | JAVASCRIPT | LUA 
 - 📫 How to reach me: Discord ! R3misTry#8328 
 
 
