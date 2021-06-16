@@ -1,6 +1,6 @@
 ### R3misTry
 #### Developer
-👋 I'm not a good developer, I'm still learning.
+👋 I'm not a good developer, I'm still learning and practicing.
 
 Skills: Python | C | C++ | C#
 
