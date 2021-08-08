@@ -4,7 +4,7 @@
 
 Skills: Python | C | C++ | C#
 
-- :seedling: I’m currently learning HTML | CSS | JAVASCRIPT | BOOTSTRAP | LUA 
+- :seedling: I’m currently learning HTML | CSS | JAVASCRIPT | BOOTSTRAP 
 - :mailbox: How to reach me: Discord ! R3misTry#8328 
 
 
