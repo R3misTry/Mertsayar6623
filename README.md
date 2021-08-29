@@ -2,7 +2,7 @@
 #### Developer
 :wave: I'm not a good developer, I'm still learning and practicing.
 
-Skills: Python | C | C++ | C#
+Skills: C | C++ | C# | Python | Dart | FLutter
 
 - :seedling: I’m currently learning HTML | CSS | JAVASCRIPT | BOOTSTRAP 
 - :mailbox: How to reach me: Discord ! R3misTry#8328 
