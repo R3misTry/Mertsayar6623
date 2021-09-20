@@ -2,9 +2,9 @@
 #### Developer
 :wave: I'm not a good developer, I'm still learning and practicing.
 
-Skills: Python | C | C++ | C# | Dart | Flutter | Cyber Security
+Skills: Python | C | C++ | C# | Cyber Security
 
-- :seedling: I’m currently learning HTML | CSS | JAVASCRIPT | BOOTSTRAP 
+- :seedling: I’m currently learning HTML | CSS | JAVASCRIPT | Dart | Flutter
 - :mailbox: How to reach me: Discord ! R3misTry#8328 
 
 ![GitHub metrics](https://metrics.lecoq.io/Mertsayar6623)
