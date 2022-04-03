@@ -9,7 +9,6 @@ Skills: Python | C | C++ | C# | Cyber Security
 
 ![GitHub metrics](https://metrics.lecoq.io/Mertsayar6623)
 
-[![R3misTry's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Mertsayar6623/github-readme-stats)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 **![visitors](https://visitor-badge.glitch.me/badge?page_id=Mertsayar6623.Mertsayar6623)**
