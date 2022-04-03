@@ -4,7 +4,7 @@
 
 Skills: Python | C | C++ | C# | Cyber Security
 
-- :seedling: I’m currently learning HTML | CSS | JAVASCRIPT | JQuery | Bootstrap
+- :seedling: I’m currently learning HTML | CSS | JS | JQuery | Bootstrap
 - :mailbox: How to reach me: Discord ! R3misTry#8328 
 
 ![GitHub metrics](https://metrics.lecoq.io/Mertsayar6623)
