@@ -5,7 +5,7 @@
 Skills: Python | C | C++ | C# | Cyber Security
 
 - :seedling: I’m currently learning HTML | CSS | JS | JQuery | Bootstrap
-- :mailbox: How to reach me: Discord ! R3misTry#8328 
+- :mailbox: How to reach me: Discord ! R3misTry#8328 | Contact: r3mistry.iletisim@gmail.com
 
 ![GitHub metrics](https://metrics.lecoq.io/Mertsayar6623)
 
